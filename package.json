@@ -1,20 +1,19 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-boilerplate",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A boilerplate framework for electron apps",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Jzbonner/electron-boilerplate",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Boilerplate",
+    "Javascript",
+    "Automation"
   ],
-  "author": "GitHub",
+  "author": "Jzbonner",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^5.0.2"
